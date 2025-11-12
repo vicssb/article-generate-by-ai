@@ -8,41 +8,23 @@
 </p> 
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
-<img src="./img/LogoBI.jpg" alt="Power BI Analyst Logo" width="200"/>
-<img src="./img/LogoBI.jpeg" alt="Power BI Logo" width="200"/>
+<img src="./img/logoChatGPT.jpg" alt="ChatGPT Logo" width="200"/>
+<img src="./img/logoLexica.jpeg" alt="logoLexica Logo" width="200"/>
 
-# Formação Power BI Analyst
+# Curso Criando Artigos Técnicos com ChatGPT e Lexica.art
 
-Este repositório contém materiais e exercícios relacionados à formação de Power BI Analyst oferecida pela [DIO](https://web.dio.me/track/formacao-power-bi-analyst).
+Este repositório contém materiais desenvolvido durante o curso Criando Artigos Técnicos com ChatGPT e Lexica.art oferecido pela [DIO](https://www.youtube.com/watch?v=ktfS6qIy7XM).
 
 ## Descrição
 
-A formação de Power BI Analyst tem como objetivo capacitar profissionais para atuar na área de análise de dados, utilizando o Power BI para criar relatórios e dashboards interativos, além de explorar técnicas de modelagem de dados e visualização.
+AProjeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável.
 
-## Conteúdo
-
-- Introdução ao Power BI
-- Conexão com Fontes de Dados
-- Modelagem de Dados
-- Criação de Relatórios e Dashboards
-- Visualizações Avançadas
-- Publicação e Compartilhamento
-- Projetos Práticos
-  - [Análise de Vendas com Power BI](https://github.com/vicssb/Sales-Analysis-with-Power-BI)
-  - [Dashboard de Indicadores de Desempenho](https://github.com/vicssb/Performance-Indicators-Dashboard)
-  - [Automatização de Relatórios com Power BI](https://github.com/vicssb/Relatorio-de-Vendas-com-Power-BI)
-  - [Dashboard corporativo com integração com MySQL e Azure](https://github.com/vicssb/Corporate-dashboard-with-MySQL-and-Azure-integration)
-  - [Dashboard de Vendas com Power BI utilizando Star Schema](https://github.com/vicssb/Sales-Dashboard-with-Power-BI-using-Star-Schema)
-  - [Modelagem e Transformação de dados com DAX com Power BI](https://github.com/vicssb/Data-Modeling-and-Transformation-with-DAX-with-Power-BI)
-  - [Relatório Dinâmico com o uso de Parâmetros ](https://github.com/vicssb/Dynamic-Report-using-Parameters)
-  - [Projeto de Data Analytics com Power BI](https://github.com/vicssb/Data-Analytics-Project-with-Power-BI)
-  - [Relatório Dinâmico de Vendas e Lucros com Data Analytics com Power BI](https://github.com/vicssb/Dynamic-Sales-and-Profit-Report-with-Data-Analytics-with-Power-BI)
-
-## Pré-requisitos
-
-- Conhecimentos básicos de Excel
-- Noções de banco de dados e SQL
-- Familiaridade com ferramentas de visualização de dados
+💻 Tecnologias utilizadas no projeto
+ChatGPT - para título e conteúdo
+Lexica.art - para gerar imagens
+PowerPoint - Para formatação de banners e Layouts
+📄 Prompts e ferramentas
+ChatGPT：
 
 ## Como Utilizar
 

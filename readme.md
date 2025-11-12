@@ -7,43 +7,25 @@
   
 </p> 
 
+
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
-<img src="./img/LogoBI.jpg" alt="Power BI Analyst Logo" width="200"/>
-<img src="./img/LogoBI.jpeg" alt="Power BI Logo" width="200"/>
+<img src="./img/logoChatGPT.jpg" alt="ChatGPT Logo" width="200"/>
+<img src="./img/logoLexica.jpeg" alt="logoLexica Logo" width="200"/>
 
-# Power BI Analyst Training
+# Course: Creating Technical Articles with ChatGPT and Lexica.art
 
-This repository contains materials and exercises related to the Power BI Analyst training offered by [DIO](https://web.dio.me/track/formacao-power-bi-analyst).
+This repository contains materials developed during the course Creating Technical Articles with ChatGPT and Lexica.art offered by [DIO](https://www.youtube.com/watch?v=ktfS6qIy7XM).
 
 ## Description
 
-The Power BI Analyst training aims to prepare professionals to work in the field of data analysis, using Power BI to create interactive reports and dashboards, as well as exploring data modeling and visualization techniques.
+A project with the objective of generating a technical article with a rich layout and pleasant reading experience.
 
-## Content
-
-- Introduction to Power BI
-- Connecting to Data Sources
-- Data Modeling
-- Creating Reports and Dashboards
-- Advanced Visualizations
-- Publishing and Sharing
-- Practical Projects
-  - [Sales Analysis with Power BI](https://github.com/vicssb/Sales-Analysis-with-Power-BI)
-  - [Performance Indicators Dashboard](https://github.com/vicssb/Performance-Indicators-Dashboard)
-  - [Automating Reports with Power BI](https://github.com/vicssb/Relatorio-de-Vendas-com-Power-BI)
-  - [Corporate dashboard with MySQL and Azure integration](https://github.com/vicssb/Corporate-dashboard-with-MySQL-and-Azure-integration)
-  - [Sales Dashboard with Power BI using Star Schema](https://github.com/vicssb/Sales-Dashboard-with-Power-BI-using-Star-Schema)
-  - [Data Modeling and Transformation with DAX with Power BI](https://github.com/vicssb/Data-Modeling-and-Transformation-with-DAX-with-Power-BI)
-  - [Dynamic Report using Parameters](https://github.com/vicssb/Dynamic-Report-using-Parameters)
-  - [Data Analytics Project with Power BI](https://github.com/vicssb/Data-Analytics-Project-with-Power-BI)
-  - [Dynamic Sales and Profit Report with Data Analytics with Power BI](https://github.com/vicssb/Dynamic-Sales-and-Profit-Report-with-Data-Analytics-with-Power-BI)
-
-
-## Prerequisites
-
-- Basic knowledge of Excel
-- Basic understanding of databases and SQL
-- Familiarity with data visualization tools
+💻 Technologies used in the project
+ChatGPT - for title and content
+Lexica.art - for generating images
+PowerPoint - For formatting banners and layouts
+📄 Prompts and tools
+ChatGPT:
 
 ## How to Use
 
@@ -59,15 +41,16 @@ The Power BI Analyst training aims to prepare professionals to work in the field
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Versioning
-
+ 
 1.0.0
-
+ 
+ 
 ## Author
-
-* **Victor Sérgio Silva Barros**:
+ 
+* **Victor Sérgio Silva Barros**: 
 
 <p align="left">
   <a href="mailto:vicssb@gmail.com" alt="Gmail" target="_blank">
