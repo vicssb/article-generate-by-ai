@@ -20,12 +20,13 @@ This repository contains materials developed during the course Creating Technica
 
 A project with the objective of generating a technical article with a rich layout and pleasant reading experience.
 
-💻 Technologies used in the project
-ChatGPT - for title and content
-Lexica.art - for generating images
-PowerPoint - For formatting banners and layouts
-📄 Prompts and tools
-ChatGPT:
+## Technologies used in the project
+- ChatGPT - for title and content
+- Lexica.art - for generating images
+- PowerPoint - For formatting banners and layouts
+
+## Prompts and tools
+- ChatGPT:
 
 ## How to Use
 

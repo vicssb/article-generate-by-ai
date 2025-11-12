@@ -19,11 +19,12 @@ Este repositório contém materiais desenvolvido durante o curso Criando Artigos
 
 AProjeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável.
 
-💻 Tecnologias utilizadas no projeto
-ChatGPT - para título e conteúdo
-Lexica.art - para gerar imagens
-PowerPoint - Para formatação de banners e Layouts
-📄 Prompts e ferramentas
+## Tecnologias utilizadas no projeto
+- ChatGPT - para título e conteúdo
+- Lexica.art - para gerar imagens
+- PowerPoint - Para formatação de banners e Layouts
+
+## Prompts e ferramentas
 ChatGPT：
 
 ## Como Utilizar
