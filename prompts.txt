@@ -12,3 +12,59 @@ Título chamativo: headline
 Crie 10 headline para nomes de artigos sobre o assunto Tinkercad - Como iniciar a usar para simular circuitos eletrônicos
 
 Imagem de capa chamativa.
+
+## Capítulos
+Crie titulos para os 5 Capítulos do artigo
+	
+## Blocos
+
+Comporte-se como um escritor de artigos tech em eletrônica e escreva o Artigo atendendo as regras abaixo
+
+{REGRAS}
+
+> No máximo 5 linhas por bloco de explicação
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
+> Os blocos que serão criados estão abaixo:
+---
+
+**Capítulo 1 – “O Que é o Tinkercad e Por Que Ele é Perfeito para Iniciantes em Eletrônica”**
+
+> Introduz o conceito da plataforma, suas principais funções e o motivo pelo qual ela é ideal para quem está começando a aprender eletrônica e simulação de circuitos.
+
+---
+
+**Capítulo 2 – “Criando Sua Conta e Explorando a Interface do Tinkercad Circuits”**
+
+> Explica o passo a passo para criar uma conta gratuita, acessar o ambiente de simulação e entender cada parte da interface (componentes, área de trabalho, menus, etc.).
+
+---
+
+**Capítulo 3 – “Montando Seu Primeiro Circuito: Do LED à Simulação Completa”**
+
+> Ensina como montar um circuito simples — por exemplo, um LED com resistor e bateria — mostrando a lógica de conexões, o uso da protoboard e a execução da simulação.
+
+---
+
+**Capítulo 4 – “Explorando Componentes e Ferramentas Avançadas do Tinkercad”**
+
+> Mostra como usar sensores, motores, Arduino e outros recursos mais avançados da plataforma para criar simulações complexas e realistas.
+
+---
+
+**Capítulo 5 – “Dicas, Erros Comuns e Próximos Passos para Aprender Eletrônica com o Tinkercad”**
+
+> Finaliza com boas práticas, truques para melhorar seus projetos, erros frequentes a evitar e sugestões de aprendizado contínuo dentro do universo da eletrônica e do Tinkercad.
+
+---
+
+- Faça um call to action para as minhas redes sociais
+- Coloque 3 hashtags que façam sentido
+
+### Sub títulos
+
+Crie Sub títulos e separe por blocos cada parte do artigo
+
+### Explemplo de código
+
+Crie um exemplo de código para o Arduino que controle a ligação de um led a partir de uma determinado valor do sensor de temperatura
+

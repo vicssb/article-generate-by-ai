@@ -8,8 +8,13 @@ ARTIGO
 	
 ## Capa
 	
+## Blocos
 
 
+
+Ilustrações de capa: gerada pela lexica.art
+Conteudo gerado por: chatGPT e rev1soes humanas
+Ilustrações generadas por MidJourney
 
 
 
