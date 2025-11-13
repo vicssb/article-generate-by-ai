@@ -25,20 +25,12 @@ A project with the objective of generating a technical article with a rich layou
 - Lexica.art - for generating images
 - PowerPoint - For formatting banners and layouts
 
-## Prompts and tools
-- ChatGPT:
+## Prompts
+ChatGPT：
+[View prompts](./prompts.txt)
 
-## How to Use
-
-1. Clone this repository:
-    ```sh
-    git clone https://github.com/your-username/your-repository.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd your-repository
-    ```
-3. Follow the instructions in each module to run the examples and exercises.
+## Article
+https://web.dio.me/articles/como-usar-o-tinkercad-para-simular-circuitos-eletronicos-em-minutos-mesmo-sem-saber-programar-ef34ce7e8e12?back=/articles
 
 ## License
 
