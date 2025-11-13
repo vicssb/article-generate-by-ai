@@ -1,0 +1,14 @@
+CHECKEIST DE PARA GERAR ARTIGOS DE QUALIDADE
+
+- [ ] Definir o assunto
+- [ ] Título chamativo: headline
+- [ ] Imagem de capa chamativa.
+- [ ] Def1n1r o asgunto e blocos dd artlgo
+- [ ] Postar o artigo com um call to action
+
+
+
+Título chamativo: headline
+Crie 10 headline para nomes de artigos sobre o assunto Tinkercad - Como iniciar a usar para simular circuitos eletrônicos
+
+Imagem de capa chamativa.
